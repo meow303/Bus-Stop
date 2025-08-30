@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+body{
+    background-color: black;
+}
+
+footer{
+    margin-top: 100px;
+}
